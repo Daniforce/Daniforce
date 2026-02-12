@@ -2,7 +2,7 @@
   <img src="Banner_final_do_github.png" alt="Banner Daniel" width="100%">
 </p>
 
-# Hi! I'm Daniel, I'm currently studying for Computer Engineering!
+# Hi! I'm Daniel, I'm currently studying for Computer Engineering! ^^
 
 ### 🚀 More about me
 - 🎓 Student in **University of Coimbra**
@@ -25,4 +25,4 @@
 **Database:**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Feel free to contact me in any social media!
+📱 ### Feel free to contact me in any social media!
